@@ -35,8 +35,5 @@ Skill Share Hub is a web application that enables users to **teach skills they k
 
 
 
-## Displaying of Skills
-<img width="862" height="614" alt="Displaying of skills at Backend" src="https://github.com/user-attachments/assets/0879af69-6f44-483b-9326-b89c67094a18" />
-
 
 
